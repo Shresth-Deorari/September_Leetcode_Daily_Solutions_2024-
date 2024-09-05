@@ -37,7 +37,10 @@ Below are the solutions to LeetCode problems solved in September 2024, organized
 
 - **September 4, 2024**
   - [September_4](September_4.cpp)
-    
+
+- **September 5, 2024**
+  - [September_5](September_5.cpp)
+  
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
