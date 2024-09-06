@@ -40,6 +40,9 @@ Below are the solutions to LeetCode problems solved in September 2024, organized
 
 - **September 5, 2024**
   - [September_5](September_5.cpp)
+
+  - **September 6, 2024**
+  - [September_6](September_6.cpp)
   
 ## Usage
 
