@@ -59,6 +59,9 @@ Below are the solutions to LeetCode problems solved in September 2024, organized
 - **September 11, 2024**
   - [September_11](September_11.cpp)
 
+- **September 12, 2024**
+  - [September_12](September_12.cpp)
+
 ## Usage
 
 Since this repository contains only the function implementations, you can copy the relevant function into the LeetCode online editor to test it. 
