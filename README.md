@@ -82,6 +82,9 @@ Below are the solutions to LeetCode problems solved in September 2024, organized
 
 - **September 19, 2024**
   - [September_19](September_19.cpp)
+
+- **September 20, 2024**
+  - [September_20](September_20.cpp)
     
 ## Usage
 
